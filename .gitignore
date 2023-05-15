@@ -3,3 +3,4 @@ __pycache__
 notebooks
 logs
 artifacts/
+diamond_price_prediction.egg-info
